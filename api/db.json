@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "sad",
+      "description": "sad",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "2313",
+      "description": "qwdsadsa",
+      "id": 3
+    },
+    {
+      "title": "another one stream",
+      "description": "a good stream, come up here, guyss",
+      "id": 5
+    },
+    {
+      "title": "My new stream",
+      "description": "cool!",
+      "userId": "116492645038572473058",
+      "id": 6
+    }
+  ]
+}
